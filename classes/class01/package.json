@@ -1,0 +1,16 @@
+{
+  "name": "webapp",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync -w"
+  },
+  "keywords": [],
+  "author": "sennaBruno",
+  "license": "MIT",
+  "description": "JS Max Gesture Controller - Semana JS Expert 7.0",
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "prettier": "2.8.4"
+  }
+}
